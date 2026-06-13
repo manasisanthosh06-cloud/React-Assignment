@@ -1,0 +1,39 @@
+.container{
+    width:80%;
+    margin:50px auto;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+    margin:10px;
+    text-align:center;
+    padding-bottom:20px;
+}
+
+.card-top{
+    height:180px;
+    background:#6366f1;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.card-top img{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+}
+
+.card-bottom{
+    padding:15px;
+}
+
+.card-bottom button{
+    background:#6366f1;
+    color:white;
+    border:none;
+    padding:8px 15px;
+    border-radius:8px;
+}
